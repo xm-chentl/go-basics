@@ -1,4 +1,4 @@
-package verifyex
+package verify
 
 import (
 	"regexp"
