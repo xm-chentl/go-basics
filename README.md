@@ -1,5 +1,5 @@
 # go-basics
-basic library（timeex、verify、osex）
+basic library（timeex、verify、osex、）
 
 ## timeex
 时间公共方法集合
